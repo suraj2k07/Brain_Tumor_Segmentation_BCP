@@ -30,4 +30,7 @@ Choose the one you wish to continue with for the rest of the project.
 [Keras Tutorial](https://www.geeksforgeeks.org/deep-learning/keras-tutorial/) <br>
 [Nibabel Tutorial](https://peerherholz.github.io/workshop_weizmann/data/image_manipulation_nibabel.html) <br>
 [Pytorch Tutorial](https://www.geeksforgeeks.org/deep-learning/pytorch-learn-with-examples/) <br>
-The theory guide for the project can be found here: [Theory Guide](https://docs.google.com/document/d/1_FPFWqnD06kb9QH93hEePEFe_FTZRMp1MgsGIDm8nDc/edit?usp=sharing) 
+[What are Neural Networks?](https://www.geeksforgeeks.org/machine-learning/neural-networks-a-beginners-guide/) <br>
+[NIfTI File Format Explanation](https://brainder.org/2012/09/23/the-nifti-file-format/) <br>
+[U-Net Architecture Explanation](https://www.geeksforgeeks.org/machine-learning/u-net-architecture-explained/) <br>
+ 
